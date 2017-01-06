@@ -1,3 +1,3 @@
-# My practical excersices for learning python with GTK
+# My practical excercises for learning python with GTK
 
 This is the way to learn python and github
