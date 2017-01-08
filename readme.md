@@ -10,7 +10,7 @@ The file [eje1_myWin.py](https://github.com/fbespitia/python/blob/master/eje1_my
 True
 
 ## Day two 
-The file [python eje2_myWin.py](https://github.com/fbespitia/python/blob/master/eje2_myWin.py)  contains the source codes that makes a window, this example is create a personalized window with some aditional elements, as default size and position.
+The file [eje2_myWin.py](https://github.com/fbespitia/python/blob/master/eje2_myWin.py)  contains the source codes that makes a window, this example is create a personalized window with some aditional elements, as default size and position.
 
 The insights todays were that warning messasge was fixed by adding:
 ```
@@ -18,7 +18,7 @@ The insights todays were that warning messasge was fixed by adding:
 	gi.require_version("Gtk", "3.0")
 ```
 
-By other hand the problem was, the  `self.set_position(Gtk.WindowPosition.MOUSE)` doesn't work.
+By other hand, from this code the line  `self.set_position(Gtk.WindowPosition.MOUSE)` doesn't do anything.
 
 ## Day three
 The file [eje3_myWin.py](https://github.com/fbespitia/python/blob/master/eje3_myWin.py) contains the source codes that makes a window with an image of Tux.  
