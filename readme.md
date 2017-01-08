@@ -1,3 +1,29 @@
 # My practical excercises for learning python with GTK
 
 This is the way to learn python and github
+
+## Day one
+
+The file [eje1_myWin.py](https://github.com/fbespitia/python/blob/master/eje1_myWin.py)  contains the source codes that makes a window. All worked aparently well, but I got the next warning message: 
+>eje1_myWin.py:1: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+True
+
+## Day two 
+The file [python eje2_myWin.py](https://github.com/fbespitia/python/blob/master/eje2_myWin.py)  contains the source codes that makes a window, this example is create a personalized window with some aditional elements, as default size and position.
+
+The insights todays were that warning messasge was fixed by adding:
+```
+	import gi
+	gi.require_version("Gtk", "3.0")
+```
+
+By other hand the problem was, the  `self.set_position(Gtk.WindowPosition.MOUSE)` doesn't work.
+
+## Day three
+The file [eje3_myWin.py](https://github.com/fbespitia/python/blob/master/eje3_myWin.py) contains the source codes that makes a window with an image of Tux.  
+
+
+
+
+
