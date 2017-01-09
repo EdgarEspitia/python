@@ -21,7 +21,12 @@ The insights todays were that warning messasge was fixed by adding:
 By other hand, from this code the line  `self.set_position(Gtk.WindowPosition.MOUSE)` doesn't do anything.
 
 ## Day three
-The file [eje3_myWin.py](https://github.com/fbespitia/python/blob/master/eje3_myWin.py) contains the source codes that makes a window with an image of Tux.  
+The file [eje3_myWin.py](https://github.com/fbespitia/python/blob/master/eje3_myWin.py) contains the source codes that makes a window with an image of Tux.
+
+## Day four
+The file [eje4_HelloGnome.py](https://github.com/fbespitia/python/blob/master/eje4_HelloGnome.py) contains the source codes that makes a windowns with a label, meanwhile in the terminar is shown the properties of label objet.
+
+
 
 
 
