@@ -29,6 +29,9 @@ The file [eje4_HelloGnome.py](https://github.com/fbespitia/python/blob/master/ej
 ## Day five
 The file [eje5_1_ContainerBox.py](https://github.com/fbespitia/python/blob/master/eje5_1_ContainersBox.py) contains the source codes that makes a windowns with two buttons in a container, these buttons are conected with a function that print on command line a messages.
 
+## Day six
+
+It was made a window with five buttons, each one are connected with a funtion that print one formate number. And for ending the app it's used a button connected with the function quit.
 
 
 
