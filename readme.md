@@ -36,7 +36,7 @@ It was made a window with five buttons, each one are connected with a funtion th
 
 ## Day seven
 
-The example was the use of list box container, and how to use a class to generate objects, as Gtk.Label and adding in the main window. [eje5_3_ListBox.py](https://github.com/fbespitia/python/blob/master/eje5_2_ContainersGrid.py) 
+The example was the use of list box container, and how to use a class to generate objects, as Gtk.Label and adding in the main window. [eje5_3_ListBox.py](https://github.com/fbespitia/python/blob/master/eje5_3_ListBox.py) 
 
 
 
