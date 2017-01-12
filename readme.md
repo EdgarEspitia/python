@@ -31,8 +31,12 @@ The file [eje5_1_ContainerBox.py](https://github.com/fbespitia/python/blob/maste
 
 ## Day six
 
-It was made a window with five buttons, each one are connected with a funtion that print one formate number. And for ending the app it's used a button connected with the function quit.
+It was made a window with five buttons, each one are connected with a funtion that print one formate number. And for ending the app it's used a button connected with the function quit. [eje5_2_ContainersGrid.py](https://github.com/fbespitia/python/blob/master/eje5_2_ContainersGrid.py)
 
+
+## Day seven
+
+The example was the use of list box container, and how to use a class to generate objects, as Gtk.Label and adding in the main window. [eje5_3_ListBox.py](https://github.com/fbespitia/python/blob/master/eje5_2_ContainersGrid.py) 
 
 
 
