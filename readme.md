@@ -38,7 +38,10 @@ It was made a window with five buttons, each one are connected with a funtion th
 
 The example was the use of list box container, and how to use a class to generate objects, as Gtk.Label and adding in the main window. [eje5_3_ListBox.py](https://github.com/fbespitia/python/blob/master/eje5_3_ListBox.py) 
 
+## Day seven
 
+The container StackSwitcher is an intersting and fancy container with animation.
+[eje5_4_Stack.py](https://github.com/fbespitia/python/blob/master/eje5_4_Stack.py) 
 
 
 
