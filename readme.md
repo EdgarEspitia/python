@@ -43,5 +43,9 @@ The example was the use of list box container, and how to use a class to generat
 The container StackSwitcher is an intersting and fancy container with animation.
 [eje5_4_Stack.py](https://github.com/fbespitia/python/blob/master/eje5_4_Stack.py) 
 
+## Day eight
+The container Header Bar was used in order to get a window with a text entry field. Using this container appeared one problem with the title, it was solved, but the are some interrogants, such as why the title of windows is missing when the propertie "names" isn't used?, and why get error if the line ''' Gtk.Window.__init__(self, title = "Stack Demo") ''' if the line is missing? why the title doesn't have any effect?
+
+[eje5_5_HeaderBar.py](https://github.com/fbespitia/python/blob/master/eje5_5_HeaderBar.py) 
 
 
