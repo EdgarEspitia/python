@@ -48,4 +48,12 @@ The container Header Bar was used in order to get a window with a text entry fie
 
 [eje5_5_HeaderBar.py](https://github.com/fbespitia/python/blob/master/eje5_5_HeaderBar.py) 
 
+## Day nine
+The container flow box allows to put elements that it follows the size window but increasing une row.
+
+In this example is used a button object where is changed the popertie color, but i don't understan why it doesn't work.
+
+[eje5_6_FlowBox.py](https://github.com/fbespitia/python/blob/master/eje5_6_FlowBox.py) 
+
+
 
