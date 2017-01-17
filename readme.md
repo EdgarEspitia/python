@@ -56,4 +56,7 @@ In this example is used a button object where is changed the popertie color, but
 [eje5_6_FlowBox.py](https://github.com/fbespitia/python/blob/master/eje5_6_FlowBox.py) 
 
 
+## Day ten
+Using labels with formats in two columns.
+[eje6_Label.py](https://github.com/fbespitia/python/blob/master/eje6_Label.py) 
 
