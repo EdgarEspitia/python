@@ -60,3 +60,8 @@ In this example is used a button object where is changed the popertie color, but
 Using labels with formats in two columns.
 [eje6_Label.py](https://github.com/fbespitia/python/blob/master/eje6_Label.py) 
 
+## Day eleven
+
+Usning the widget entry with some characteristics.
+[eje7_Entry.py](https://github.com/fbespitia/python/blob/master/eje7_Entry.py) 
+
