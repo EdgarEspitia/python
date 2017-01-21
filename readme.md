@@ -3,7 +3,6 @@
 This is the way to learn python and github
 
 ## Day one
-
 The file [eje1_myWin.py](https://github.com/fbespitia/python/blob/master/eje1_myWin.py)  contains the source codes that makes a window. All worked aparently well, but I got the next warning message: 
 >eje1_myWin.py:1: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
   from gi.repository import Gtk
@@ -30,12 +29,10 @@ The file [eje4_HelloGnome.py](https://github.com/fbespitia/python/blob/master/ej
 The file [eje5_1_ContainerBox.py](https://github.com/fbespitia/python/blob/master/eje5_1_ContainersBox.py) contains the source codes that makes a windowns with two buttons in a container, these buttons are conected with a function that print on command line a messages.
 
 ## Day six
-
 It was made a window with five buttons, each one are connected with a funtion that print one formate number. And for ending the app it's used a button connected with the function quit. [eje5_2_ContainersGrid.py](https://github.com/fbespitia/python/blob/master/eje5_2_ContainersGrid.py)
 
 
 ## Day seven
-
 The example was the use of list box container, and how to use a class to generate objects, as Gtk.Label and adding in the main window. [eje5_3_ListBox.py](https://github.com/fbespitia/python/blob/master/eje5_3_ListBox.py) 
 
 ## Day seven
@@ -55,13 +52,25 @@ In this example is used a button object where is changed the popertie color, but
 
 [eje5_6_FlowBox.py](https://github.com/fbespitia/python/blob/master/eje5_6_FlowBox.py) 
 
-
 ## Day ten
 Using labels with formats in two columns.
 [eje6_Label.py](https://github.com/fbespitia/python/blob/master/eje6_Label.py) 
 
 ## Day eleven
-
-Usning the widget entry with some characteristics.
+Using the widget entry with some characteristics.
 [eje7_Entry.py](https://github.com/fbespitia/python/blob/master/eje7_Entry.py) 
 
+## Day twelve
+It was used a widget button and concetec with diferent functions that exceute diferent action.
+
+[eje8_1_Button.py](https://github.com/fbespitia/python/blob/master/eje8_1_Button.py)
+
+## Day thirtenn
+The widget "Toogle button" was used for ilustrate how to work with buttons that can be on or off.
+
+[eje8_2_ToggleButton.py](https://github.com/fbespitia/python/blob/master/eje8_2_ToggleButton.py)
+
+## Day Fourteen
+The window application uses a check button for changing the window's title. 
+
+[eje8_3_CheckButton.py](https://github.com/fbespitia/python/blob/master/eje8_3_CheckButton.py)
