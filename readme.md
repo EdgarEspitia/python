@@ -74,3 +74,32 @@ The widget "Toogle button" was used for ilustrate how to work with buttons that 
 The window application uses a check button for changing the window's title. 
 
 [eje8_3_CheckButton.py](https://github.com/fbespitia/python/blob/master/eje8_3_CheckButton.py)
+
+
+## Day Fifteen
+This excercise illustrates the use of a radion button.
+
+[eje8_4_RadioButton.py](https://github.com/fbespitia/python/blob/master/eje8_4_RadioButton.py)
+
+## Day Sixteen
+This excercise illustrates how to create a link to an web page.
+
+[eje8_5_LinkButton.py](https://github.com/fbespitia/python/blob/master/eje8_5_LinkButton.py)
+
+## Day Seventeen
+
+This a an application with one spin button.
+
+
+[eje8_6_SpinButton.py](https://github.com/fbespitia/python/blob/master/eje8_6_SpinButton.py)
+
+
+
+## Day Eighteen
+It is used two switch buttons to illustrate how work thies kind of widgets
+
+
+
+[eje8_7_SwitchButton.py](https://github.com/fbespitia/python/blob/master/eje8_7_SwitchButton.py)
+
+
