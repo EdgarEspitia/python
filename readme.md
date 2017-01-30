@@ -1,3 +1,4 @@
+
 # My practical excercises for learning python with GTK
 
 This is the way to learn python and github
@@ -98,8 +99,39 @@ This a an application with one spin button.
 ## Day Eighteen
 It is used two switch buttons to illustrate how work thies kind of widgets
 
-
-
 [eje8_7_SwitchButton.py](https://github.com/fbespitia/python/blob/master/eje8_7_SwitchButton.py)
+
+## Day Nineteen
+The progress bar shows the evolution of something graphicaly throught the bar.
+
+[eje9_ProgressBar.py](https://github.com/fbespitia/python/blob/master/eje9_ProgressBar.py)
+
+
+## Day Twenty
+The spinner displays an animate icon to show thats is some activity is going on.
+
+
+[eje10_Spinner.py](https://github.com/fbespitia/python/blob/master/eje10_Spinner.py)
+
+
+## Day Twenty one
+Tree and list widgets are elements that help to display data. 
+
+[eje11_TreeList.py](https://github.com/fbespitia/python/blob/master/eje11_TreeList.py)
+
+## Day Twenty two
+Today is used the text renderer with a function, that allows modify the content of chooseen cell.
+
+[eje12_1_CellRenderText.py](https://github.com/fbespitia/python/blob/master/eje12_1_CellRenderText.py)
+
+
+## Day Twenty three
+Today is used the toggle renderer with two toggle buttons and for each one one function, that allows modify the content of chooseen cell, thikor selecter.
+
+[eje12_2_CellRendererToggle.py](https://github.com/fbespitia/python/blob/master/eje12__2_CellRendererToggle.py)
+
+
+
+
 
 
