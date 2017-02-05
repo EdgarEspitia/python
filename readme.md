@@ -313,7 +313,11 @@ The ilustration how the clipboard works by using some buffers.
 
 ## Day thirty two
 
-[.py](https://github.com/fbespitia/python/blob/master/eje16_3_DialogsFileChoser.py)
+It is used the drang and drop concept by developing a simple window.
+
+[eje18_DragAndDrop.py](https://github.com/fbespitia/python/blob/master/eje18_DragAndDrop.py)
+
+
 
 
 
