@@ -291,6 +291,35 @@ In orden to interact with the main program sometimes is necesary get or retrive 
 [eje16_1_DialogsOkCancel.py](https://github.com/fbespitia/python/blob/master/eje16_1_DialogsOkCancel.py)
 
 
+## Day twenty nine
+
+TBy using predefinided message dialog, the application can give and get informatio the user.
+
+[eje16_2_DialogsOkCancel.py](https://github.com/fbespitia/python/blob/master/eje16_2_DialogsOkCancel.py)
+
+
+## Day thirty
+
+Gtk has some uselful prebuilds dialogs, that allow get information, for example choose a file from the directory system.
+
+[eje16_3_DialogsFileChoser.py](https://github.com/fbespitia/python/blob/master/eje16_3_DialogsFileChoser.py)
+
+## Day thirty one
+
+The ilustration how the clipboard works by using some buffers.
+
+[eje17_Clipboard.py](https://github.com/fbespitia/python/blob/master/eje17_Clipboard.py)
+
+
+## Day thirty two
+
+[.py](https://github.com/fbespitia/python/blob/master/eje16_3_DialogsFileChoser.py)
+
+
+
+
+
+
 
 
 
