@@ -183,6 +183,15 @@ It is used the drang and drop concept by developing a simple window.
 [eje18_DragAndDrop.py](https://github.com/fbespitia/python/blob/master/eje18_DragAndDrop.py)
 
 
+## Day thity three
+
+There is an interesting tool to developed interfaces, it is the Glade edito. By using the editor the time and code is reduccing, because is not need to develope all interface from code, and it allows to non programmers, desinger work on the aspect of aplication without knowledge of programming.
+
+The python source file 
+[eje19_glade.py](https://github.com/fbespitia/python/blob/master/eje19_glade.py)
+
+And the glade file
+[builder_example.glade](https://github.com/fbespitia/python/blob/master/builder_example.glade)
 
 
 
